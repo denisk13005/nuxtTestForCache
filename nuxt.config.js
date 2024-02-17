@@ -43,7 +43,7 @@ export default {
   build: {},
 
   generate: {
-    "outputs": ["dist/**"]
+    dir: 'dist'
   },
 
   rules: {
