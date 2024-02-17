@@ -42,9 +42,7 @@ export default {
   // Build Configuration: https://go.nuxtjs.dev/config-build
   build: {
   },
-  generate: {
-    fallback: true // Remplacez 'monDossierDeSortie' par le nom de votre choix
-  },
+
   rules: {
     'vue/multi-word-component-names': 'off',
   },
